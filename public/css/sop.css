@@ -1,0 +1,19 @@
+html, body {
+    height: 100%;
+    width: 100%;
+}
+
+.navbar {
+    margin-bottom: 0px;
+}
+
+.jumbotron {
+    height: 100vh;
+    background-image: url("../img/shout_of_praise.jpg");
+    background-position: center;
+    background-size: cover;
+
+}
+.jumbotron-no-round{
+    border-radius: 0px;
+}
